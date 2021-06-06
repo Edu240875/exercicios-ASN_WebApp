@@ -1,0 +1,7 @@
+exercicio 1 - Git para GitHub
+
+exercicio 2 - fazendo a primeira alteração
+
+exercicio 3 - finalmente, fazendo a última alteração no arquivo
+
+exercicio 4- fazendo um ultimo teste para entender bem
